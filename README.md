@@ -22,9 +22,5 @@ Our aim is to develop an easy, accuracte, and efficent way to diagnosis Parkinso
 * jquery
 
 ## Usage
-what models we are using and how they help with parkinsons
-download spiral- caggle api 
-audio- import statment from google.collab.import files 
-al are google collab files that were used for the models 
-files.upload command then upload command from local 
+
 
