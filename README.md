@@ -1,4 +1,4 @@
-# AIParkinSan (AIPS)
+# AIParkinScan (AIPS)
 
 ## Table of Contents
 * About
