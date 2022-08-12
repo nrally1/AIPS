@@ -36,9 +36,9 @@ Recommended packages/modules:
 * matplotlib.image
 
 ## Team
-* Hassan Mushtaq
-* Nishil Rally
-* Aadarsha Gopala Reddy
-* Allie Kam
-* Nisarg Parikh
+* Hassan Mushtaq - <hhmushtaq@owu.edu>
+* Nishil Rally - <nishilrally@gmail.com>
+* Aadarsha Gopala Reddy - <agreddy@owu.edu>
+* Allie Kam - <akam1@student.gn.k12.ny.us>
+* Nisarg Parikh - <nisargparikh.cse@gmail.com>
 
