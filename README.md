@@ -25,7 +25,15 @@ Our aim is to develop an easy, accuracte, and efficent way to diagnosis Parkinso
 For the spiral test, the kaggle API was downloaded.
 For the audio test, files were downloaded locally from Google Colab.
 
-Recommended modules:
+Recommended packages/modules:
+* tensorflow
+* numPy
+* cv2
+* matplotlib.pyplot
+* pandas
+* os
+* shutil
+* matplotlib.image
 
 ## Team
 * Hassan Mushtaq
