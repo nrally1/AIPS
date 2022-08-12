@@ -5,7 +5,6 @@
 * Technologies 
 * Usage
 * Team
-* Lisence 
 
 ## About
 AIParkinScan (AIPS) is an artifical intelligence software used for the diangosis of Parkinson's disease. It asks for the input of a drawing and an audio file, which is  evaluated for inconsistency in the drawing and voice that is caused by micrographia or voice tremors. If inconsistency is detected, it is a strong indcation of Parkinson's, as tremors and micrographia are common symptoms of Parkinson's.
