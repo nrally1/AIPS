@@ -17,13 +17,13 @@ Our aim is to develop an easy, accuracte, and efficent way to diagnosis Parkinso
 * Bootstrap version: 4.3.1
 * CSS version: 3
 * Javascript
-* Google Collab 
+* Google Colab 
 * jQuery
 
 ## Usage
 
 For the spiral test, the kaggle API was downloaded.
-For the audio test, files were downloaded locally from Google Collab.
+For the audio test, files were downloaded locally from Google Colab.
 
 Recommended modules:
 
