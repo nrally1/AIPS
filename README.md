@@ -12,6 +12,8 @@ AIParkinScan (AIPS) is an artifical intelligence software used for the diangosis
 Our aim is to develop an easy, accuracte, and efficent way to diagnose Parkinson's disease. There are currently limited and unoffical tests for Parkinson's, and even after diagnosis, symptoms need to be carefully monitored. Using our software, diagnosis of Parkinson's becomes widely available to all, and can also be used for tracking of symptom progression.
 
 ## Technologies 
+Project was created with:
+
 * Python version: 3.10
 * Flask version: 2.2.1
 * Bootstrap version: 4.3.1
