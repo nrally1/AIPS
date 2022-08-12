@@ -1,4 +1,4 @@
 # AIPS
 
-# Description
-AIParkinScan (AIPS) is an artifical intelligence software for the easy, accuracte, and accesible diangosis of Parkinson's disease. It asks
+# About
+AIParkinScan (AIPS) is an artifical intelligence software used for the diangosis of Parkinson's disease. It asks the user for a 
